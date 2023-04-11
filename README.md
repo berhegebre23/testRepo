@@ -101,7 +101,7 @@ Now, lets dive into the lib folder which has the main code for the application.
 6- routes — This one contains all the routes for the application.
 
 7- main.dart - This is the starting point of the application. All the application level configurations are defined in this file i.e, theme, routes, title, orientation etc.
-
+```
 
 ### Models
 
