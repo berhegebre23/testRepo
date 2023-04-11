@@ -85,7 +85,6 @@ lib/
 |- utils/
 |- views/
 |- main.dart
-|- routes
 ```
 
 Now, lets dive into the lib folder which has the main code for the application.
