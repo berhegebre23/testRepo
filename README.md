@@ -37,7 +37,9 @@ flutter run lib/main.dart
 * Dart as a programming language
 * Firebase for OTP generation as well as authentication and Push notification
 * Provider package for state management
-* DIO package for managing network requests## Features
+* DIO package for managing network requests
+ 
+## Features
 * Cross-platform
 * Splash Screen
 * Introduction Screen
