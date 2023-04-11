@@ -61,7 +61,6 @@ flutter run lib/main.dart
 
 ## Folder Structure
 
-### Flutter Structure
 Here is the core folder structure which flutter provides.
 
 ```
