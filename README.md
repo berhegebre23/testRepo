@@ -148,7 +148,7 @@ utils/
 |- language.dart
 |- text_fonts.dart
 |- validator.dart
-
+```
 
 ### views
 
@@ -163,6 +163,7 @@ views/
 |- Lifestyle
 |- MyAccount
 ```
+
 ## Used By
 
 This project is used by the following companies:
