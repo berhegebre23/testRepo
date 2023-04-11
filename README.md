@@ -27,6 +27,8 @@ flutter pub get
 
 Alternately, select Pub Get in the top right corner of the Visual Studio Code or Android Studio editors.
 
+**Step 3:**
+
 Then select virtual device or connect real device and execute the following command in console to run the project:
 
 ```
